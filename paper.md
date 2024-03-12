@@ -20,3 +20,7 @@ scale.
 #Simulations
 We simulate the evolution of particle sizes as they are transported
 away from the soruce region.
+
+#Methodology
+We compare our measurements with a model simulation
+The model is detailed in Smith et al 2020.
