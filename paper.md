@@ -24,3 +24,7 @@ away from the soruce region.
 # Methodology
 We compare our measurements with a model simulation
 The model is detailed in Smith et al 2020.
+
+# Results
+The simulations indicate that coagulation is the dominat growth
+mechanisms for these particles.
