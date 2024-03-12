@@ -1,12 +1,12 @@
-#Title
+# Title
 Aircraft measurements and simulations of biomass burning aerosols over West Africao
 
 
-#Author
+# Author
 Natali Hernandez
 John Smith
 
-#Introduction
+# Introduction
 We present aircraft measurements of BBOA over West Africa.
 
 Particle size was measured using PCASP (Bloggs et al 2004).
@@ -17,10 +17,10 @@ A large uncertentaly in modellig BBOA is the etent to
 wich measures in the literature can be applied to regional
 scale.
 
-#Simulations
+# Simulations
 We simulate the evolution of particle sizes as they are transported
 away from the soruce region.
 
-#Methodology
+# Methodology
 We compare our measurements with a model simulation
 The model is detailed in Smith et al 2020.
