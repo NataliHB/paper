@@ -1,8 +1,10 @@
 #Title
-Aircraft measurements of biomass burning aerosols over West Africa
+Aircraft measurements and simulations of biomass burning aerosols over West Africao
+
 
 #Author
 Natali Hernandez
+John Smith
 
 #Introduction
 We present aircraft measurements of BBOA over West Africa.
@@ -15,3 +17,6 @@ A large uncertentaly in modellig BBOA is the etent to
 wich measures in the literature can be applied to regional
 scale.
 
+#Simulations
+We simulate the evolution of particle sizes as they are transported
+away from the soruce region.
